@@ -8,11 +8,11 @@ Simple navbar using just some html and css, and a simple funciton to toggle a cl
 
 
 ### Desktop
+![Screenshot from 2023-10-04 00-21-14](https://github.com/rubatista/navbar/assets/44814819/11733ea8-f60b-4b66-949b-e267e6894b4c)
 
-![Screenshot from 2023-10-02 18-34-17](https://github.com/rubatista/navbar/assets/44814819/f742119e-9ce5-4c80-bc7c-939416f53c46)
 
 
 ### Mobile
-![Screenshot from 2023-10-02 18-35-26](https://github.com/rubatista/navbar/assets/44814819/e547e6a2-5ed7-4f77-89b8-8113395d993d)
+![Screenshot from 2023-10-04 00-22-01](https://github.com/rubatista/navbar/assets/44814819/264a407d-a8bd-4fd3-a64b-57944772d560)
 
 
